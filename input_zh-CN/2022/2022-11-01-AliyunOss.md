@@ -231,11 +231,12 @@ https://github.com/corvus-dotnet/corvus.uritemplates
 * InCerry 翻译与整理 : https://github.com/InCerryGit/WeekRef.NET/blob/master/input_zh-CN/2022/2022-11-01.md
 * Myuki WeekRef : https://github.com/mayuki/WeekRef.NET/blob/master/input/2022/2022-11-01.md
 
-**欢迎大家为.NET周报进行贡献，需要推广自己的文章或者框架、开源项目可以下方的项目地址提交issue或者在我的微信公众号私信。**
+**欢迎大家为.NET周报进行贡献，需要推广自己的文章或者框架、开源项目可以下方的项目地址提交Issue或者我的微信公众号私信。**
 
 格式如下：
+
 * 10~50字左右的标题
 * 对应文章或项目网址访问链接
 * 200字以内的简介，如果太长会影响阅读体验
 
-https://github.com/InCerryGit/WeekRef.NET
+https://github.com/InCerryGit/.NET-Weekly
